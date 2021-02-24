@@ -1,2 +1,2 @@
 # GEOMIATE
-For researching the following of MIATE characteristics in the GEO databse
+For researching the following of MIATE requirements in the metadata of entries in the GEO database.
